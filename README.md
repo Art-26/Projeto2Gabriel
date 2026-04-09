@@ -7,6 +7,10 @@
 > [!IMPORTANT]
 > É recomendado rodar o projeto em uma IDE própria para Java (como IntelliJ ou Eclipse).
 
+>[!WARNING]
+>Quando você inserir o número 1 para executar os experimentos automáticos, repita o processo inserindo 1 e clicando enter pelo menos umas 5 vezes, para obter resultados mais condizentes.
+
+
 ### Como clonar o repositório para sua máquina:
 Para clonar o repositório, utilize o comando abaixo:
 ```bash
@@ -37,13 +41,13 @@ tendo selecionado o arquivo Main.java, basta clicar em **Run**, que está locali
 
 ---
 ## Como executar projeto no IntelliJ
-Abra o IntelliJ e clique em **Open**, após isso, basta selecionar a pasta 'Projeto1Gabriel', e clicar em **Select Folder**.
+Abra o IntelliJ e clique em **Open**, após isso, basta selecionar a pasta 'Projeto2Gabriel', e clicar em **Select Folder**.
 
-Após isso, basta clicar em **src > Main.java** e executar o arquivo clicando no botão verde de Play ao lado de **current file** na barra superior. (Atalho para executar: (Shift + F10), em alguns teclados pode ser necessário o Fn (Shift + Fn + F10).
+Após isso, basta clicar em **src > Main** e executar o arquivo clicando no botão verde de Play ao lado de **current file** na barra superior. (Atalho para executar: (Shift + F10), em alguns teclados pode ser necessário o Fn (Shift + Fn + F10).
 
 ---
 ## Como executar projeto no Visual Studio Code
-Abra o Visual Studio Code e clique em **Abrir pasta** (Atalho: Ctrl + Shift + E), após isso, basta selecionar a pasta 'Projeto1Gabriel' acessar **src > Main.java**, após acessar o arquivo, basta executar o projeto clicando no ícone de Play, localizado na barra superior (A mesma barra onde exibe os arquivos abertos no Visual Studio Code), no canto superior direito.
+Abra o Visual Studio Code e clique em **Abrir pasta** (Atalho: Ctrl + Shift + E), após isso, basta selecionar a pasta 'Projeto2Gabriel' acessar **src > Main.java**, após acessar o arquivo, basta executar o projeto clicando no ícone de Play, localizado na barra superior (A mesma barra onde exibe os arquivos abertos no Visual Studio Code), no canto superior direito.
 
 > [!IMPORTANT]
 > Para o projeto funcionar corretamente no Visual Studio Code, será necessário a extensão **Extension Pack for Java** e a extensão **Portuguese (Brazil) Language Pack for Visual Studio Code** para ter acesso ao Visual Studio Code completamente em PT-BR.
