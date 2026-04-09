@@ -4,7 +4,7 @@ public class BuscaBinaria {
         int direita = vetor.length - 1;
 
         while(esquerda <= direita) {
-            int meio = esquerda + (esquerda - direita) / 2;
+            int meio = esquerda + (direita - esquerda) / 2;
 
             if(vetor[meio] == alvo) {
                 return meio;
